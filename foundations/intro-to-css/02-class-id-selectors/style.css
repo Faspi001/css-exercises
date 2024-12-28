@@ -1,0 +1,19 @@
+.bf{
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+.bf.tf{
+    font-size: 24px;
+}
+
+#element1{
+    color:blue;
+    font-size: 36px;
+}
+
+#element2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
